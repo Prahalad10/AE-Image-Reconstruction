@@ -85,9 +85,3 @@ Both models include visualizations for:
 
 ---
 
-## 💾 Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/image-denoising-autoencoder.git
-   cd image-denoising-autoencoder
